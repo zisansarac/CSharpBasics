@@ -12,3 +12,4 @@ C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\CalculatorApp\obj\Debug\net
 C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
 C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
