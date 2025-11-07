@@ -1,0 +1,15 @@
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\bin\Debug\net9.0\OdemeYonetimi.exe
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\bin\Debug\net9.0\OdemeYonetimi.deps.json
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\bin\Debug\net9.0\OdemeYonetimi.runtimeconfig.json
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\bin\Debug\net9.0\OdemeYonetimi.dll
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\bin\Debug\net9.0\OdemeYonetimi.pdb
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.AssemblyInfoInputs.cache
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.AssemblyInfo.cs
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.sourcelink.json
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.dll
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\refint\OdemeYonetimi.dll
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.pdb
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\OdemeYonetimi.genruntimeconfig.cache
+C:\Users\sarac\OneDrive\Belgeler\GitHub\CSharpBasics\OdemeYonetimi\obj\Debug\net9.0\ref\OdemeYonetimi.dll
